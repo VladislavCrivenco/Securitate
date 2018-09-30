@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/DES.csproj"
+                "${workspaceFolder}/Securitate Informationala.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

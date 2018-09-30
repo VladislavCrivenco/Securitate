@@ -9,3 +9,14 @@ E:\Vlad\UTM\Securitate Informationala\Lab1\obj\Debug\netcoreapp2.1\Securitate In
 E:\Vlad\UTM\Securitate Informationala\Lab1\obj\Debug\netcoreapp2.1\Securitate Informationala.AssemblyInfo.cs
 E:\Vlad\UTM\Securitate Informationala\Lab1\obj\Debug\netcoreapp2.1\Securitate Informationala.dll
 E:\Vlad\UTM\Securitate Informationala\Lab1\obj\Debug\netcoreapp2.1\Securitate Informationala.pdb
+E:\Vlad\UTM\Securitate\DES\bin\Debug\netcoreapp2.1\Securitate Informationala.deps.json
+E:\Vlad\UTM\Securitate\DES\bin\Debug\netcoreapp2.1\Securitate Informationala.runtimeconfig.json
+E:\Vlad\UTM\Securitate\DES\bin\Debug\netcoreapp2.1\Securitate Informationala.runtimeconfig.dev.json
+E:\Vlad\UTM\Securitate\DES\bin\Debug\netcoreapp2.1\Securitate Informationala.dll
+E:\Vlad\UTM\Securitate\DES\bin\Debug\netcoreapp2.1\Securitate Informationala.pdb
+E:\Vlad\UTM\Securitate\DES\obj\Debug\netcoreapp2.1\Securitate Informationala.csprojAssemblyReference.cache
+E:\Vlad\UTM\Securitate\DES\obj\Debug\netcoreapp2.1\Securitate Informationala.csproj.CoreCompileInputs.cache
+E:\Vlad\UTM\Securitate\DES\obj\Debug\netcoreapp2.1\Securitate Informationala.AssemblyInfoInputs.cache
+E:\Vlad\UTM\Securitate\DES\obj\Debug\netcoreapp2.1\Securitate Informationala.AssemblyInfo.cs
+E:\Vlad\UTM\Securitate\DES\obj\Debug\netcoreapp2.1\Securitate Informationala.dll
+E:\Vlad\UTM\Securitate\DES\obj\Debug\netcoreapp2.1\Securitate Informationala.pdb

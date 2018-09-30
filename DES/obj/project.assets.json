@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Vlad\\UTM\\Securitate Informationala\\Lab1\\Securitate Informationala.csproj",
+      "projectUniqueName": "E:\\Vlad\\UTM\\Securitate\\DES\\Securitate Informationala.csproj",
       "projectName": "Securitate Informationala",
-      "projectPath": "E:\\Vlad\\UTM\\Securitate Informationala\\Lab1\\Securitate Informationala.csproj",
+      "projectPath": "E:\\Vlad\\UTM\\Securitate\\DES\\Securitate Informationala.csproj",
       "packagesPath": "C:\\Users\\Crivenco\\.nuget\\packages\\",
-      "outputPath": "E:\\Vlad\\UTM\\Securitate Informationala\\Lab1\\obj\\",
+      "outputPath": "E:\\Vlad\\UTM\\Securitate\\DES\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
